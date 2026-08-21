@@ -1,0 +1,12 @@
+#EstruturaDeRepeticao
+#for.py
+for i in range(1, 11):
+
+	#Forma1:
+	print("2 x",i," = ", 2*i)
+
+	#Forma2:
+	print("2 x {} = {}".format(i,2*i))
+
+	#Forma3:
+	print(f"2 x {i} = {2*i}")
