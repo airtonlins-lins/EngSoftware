@@ -1,0 +1,27 @@
+***Variáveis***
+
+nome = "Fellipe LIns"
+
+print(nome)
+
+ 
+
+# Tipos de dados:
+
+# String = texto literal
+
+#inteiro
+
+idade = 20
+
+ 
+
+print(nome)
+
+print(idade)
+
+ 
+
+nomeDigitado = input("POr favor, digite um nome: ")
+
+print(nomeDigitado)
