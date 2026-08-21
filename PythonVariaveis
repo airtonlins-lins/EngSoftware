@@ -1,6 +1,6 @@
 ***Variáveis***
 
-nome = "Fellipe LIns"
+nome = "Fellipe Lins"
 
 print(nome)
 
